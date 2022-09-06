@@ -1,0 +1,12 @@
+00:00:00 | Introduction
+00:01:47 | Part 1 - Setup, Installation and Page Navigation
+00:22:00 | Part 2 - SQLite3 DataBase Tutorial
+00:44:32 | Part 3 - Admin Dashboard
+00:53:35 | Part 4 - Templates & Custom HTML
+01:21:11 | Part 5 - Simple Forms
+01:42:51 | Part 6 - Custom Forms
+01:57:08 | Part 7 - How to Add a Sidebar
+02:06:47 | Part 8 - How to Add Bootstrap
+02:21:19 | Part 9 - User Registration & Sign Up Page
+Part 10 - Login, Logout and User Authentication
+ Part 11 - User Specific Pages/Access
